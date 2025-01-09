@@ -6,7 +6,7 @@
 
 ![alt text](image-2.png)
 
-```
+
 netology@netology-VirtualBox:~/k8s/5/k8s5$ kubectl get svc
 NAME         TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)    AGE
 kubernetes   ClusterIP   10.152.183.1     <none>        443/TCP    93m
@@ -76,4 +76,3 @@ Commercial support is available at
 </body>
 </html>
 100   615  100   615    0     0   539k      0 --:--:-- --:--:-- --:--:--  600k
-```
