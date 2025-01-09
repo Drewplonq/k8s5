@@ -1,10 +1,10 @@
 ### 1
 
-![alt text](image.png)
+![alt text](img/image.png)
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 ```
 ### netology@netology-VirtualBox:~/k8s/5/k8s5$ kubectl get svc
@@ -89,3 +89,9 @@ Commercial support is available at
 
 
 ### 2
+
+![alt text](img/image-3.png)
+
+![alt text](img/image-4.png)
+
+![alt text](img/image-5.png)
